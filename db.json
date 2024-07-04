@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+      {
+      "id": 8419985,
+      "category": "Community",
+      "title": "Volunteer at Refugee Camp",
+      "description": "Teaching digital knowledge",
+      "location": "Refugee Camp",
+      "date": "Aug 22, 2022",
+      "time": "9:00",
+      "petsAllowed": true,
+      "organizer": "Rubi"
     }
   ]
 }
